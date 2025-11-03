@@ -1,4 +1,4 @@
-## Im Ben 👋
+## Hi, I'm Ben.
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](benjamingammage.com)
 

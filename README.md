@@ -13,10 +13,9 @@
 ## About Me
 
 I’m a UK-based data-focused professional building a career in data analytics.
+Currently building a portfolio of projects covering data cleaning, exploratory analysis, and dashboard-style reporting.
 
-I work on real-world projects using Python, SQL, and Excel to clean, analyse, and visualise data, with a focus on turning raw datasets into clear business insights.
-
-I’m currently building a portfolio of projects covering data cleaning, exploratory analysis, and dashboard-style reporting.
+Outside of all the data stuff, I love to work out and eat. I can eat ALOT.
 
 
 ## Projects
